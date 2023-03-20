@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          default-label: config-server
-          uri: https://github.com/wilder06/microservicios-shop/tree/master
+          default-label: master
+          uri: https://github.com/wilder06/microservicios-shop/
           search-path: config-data
   application:
     name: config-server
