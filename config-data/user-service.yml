@@ -1,8 +1,2 @@
 server:
   port: 8082
-spring:
-  datasource:
-    #url: jdbc:postgresql://user-service-db:5432/postgres
-    url: jdbc:postgresql://localhost:5432/postgres
-    username: postgres
-    password: sasa
