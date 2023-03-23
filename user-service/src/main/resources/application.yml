@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: user-service
+  datasource:
+    url: jdbc:postgresql://user-service-db:5432/postgres
+    username: postgres
+    password: postgres
+  flyway:
+    enabled: false
+
+
+
+#Actuator
+management:
+  endpoints:
+    jmx:
+      exposure:
+        include: health,info,env,beans
+    web:
+      exposure:
+        include: health,info,env,beans

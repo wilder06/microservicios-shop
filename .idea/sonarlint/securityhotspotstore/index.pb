@@ -7,3 +7,5 @@ e
 -user-service/src/main/resources/bootstrap.yml,2\8\28eec1ed10c97f108dbe1db2348245dd2d4b5d86
 Å
 Qorder-service/src/main/java/pe/com/shop/orderservice/OrderServiceApplication.java,1\b\1b2d174b2fa55d126b58a31bdcc6b3137e60a3e7
+~
+Nuser-service/src/main/java/pe/com/shop/userservice/UserServiceApplication.java,e\1\e15f84643e6ecaf8d6ef49668b8716aa8ca32db1
